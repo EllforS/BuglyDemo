@@ -1,0 +1,13 @@
+ext {
+    //基本配置
+    basic = [
+            compileSdkVersion: 25,
+            buildToolsVersion: "25.0.0",
+            minSdkVersion    : 17,
+            targetSdkVersion : 24,
+            versionCode      : 8,
+            versionName      : "1.1.3",
+            tinkerID         : "3.0.0-path-1",
+            baseApkDir       : "app-0926-16-49-02"
+    ]
+}
