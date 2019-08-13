@@ -29,7 +29,7 @@ public class MyAppLike extends DefaultApplicationLike
     {
         super.onCreate();
         //初始化Bugly
-        Bugly.init(getApplication(), "f329cfb8a9", false);
+        Bugly.init(getApplication(), "9b3cd68f49", false);
         // 设置是否为开发设备
         Bugly.setIsDevelopmentDevice(getApplication(), false);
     }

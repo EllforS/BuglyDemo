@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity()
 
     private fun init()
     {
-        tv_main.text = "3.0.0 第一次 修改"
+        tv_main.text = "第三次文字"
         tv_main.setTextColor(Color.GREEN)
 
         btn_main.setOnClickListener {
